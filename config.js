@@ -7,7 +7,7 @@ const CONFIG = {
     Đằng sau chữ yêu đây là thương`,
     btnIntro: '^^HiHi^^',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Đố Em nhớ ngày kỉ niệm của mình???  ',
+    desc: 'Đố Em nhớ ngày kỉ niệm của mình??  ',
     btnYes: 'Nhớ chứ <33',
     btnNo: 'Quên nha :3',
     question: 'Điền vào xem kết quả có đúng không <3',
