@@ -12,7 +12,7 @@ const CONFIG = {
     btnNo: 'Quên nha :3',
     question: 'Điền vào xem kết quả có đúng không <3',
     btnReply: 'Tiếp tục <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    reply: '23/09 <33333333',
     mess: 'Anh biết mà 🥰. Yêu Em nhiều nhiều 😘😘',
     messDesc: 'Cảm ơn Em đã đến với Anh, Anh không hứa mình sẽ đi bao lâu nhưng sẽ hứa phải đi thật xa',
     btnAccept: '🥰Anh yêu Em🥰',
